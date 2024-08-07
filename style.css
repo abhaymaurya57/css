@@ -1,0 +1,22 @@
+h1{
+    color:rgb(57, 33, 122);
+}
+
+p{
+    color:rgba(5, 5, 5, 0)
+}
+button{
+    color: rgb(1, 2, 8);
+}
+body{
+    background-color: rgba(88, 22, 143, 0.219);
+}
+button{
+    background-color: #dbc6db;   
+}
+#Abhay1{
+    color: rgb(56, 226, 13);
+}
+.myclass{
+    color: crimson;
+}

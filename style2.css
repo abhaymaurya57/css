@@ -1,0 +1,14 @@
+p{
+text-align:center
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+#Abhay{
+    text-align: left;
+    text-decoration: rgb(42, 23, 212) line-through;
+}
