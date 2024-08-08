@@ -1,0 +1,22 @@
+
+#div1{
+    height: 100px;
+    width: 100px;
+    /* background: rgb(153, 26, 26); */
+    background-color:  rgb(255, 2, 2);
+    border-radius: 50%;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    /* background: rgb(153, 26, 26); */
+    background-color:  rgb(3, 221, 3);
+    border-radius: 50%;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    /* background: rgb(153, 26, 26); */
+    background-color:  rgb(245, 241, 25);
+    border-radius: 50%;
+}

@@ -1,0 +1,9 @@
+div {
+height: 20px;
+width: 129px;
+background: rgb(214, 130, 144);
+border-width: 4px;
+border-style: solid;
+border-color: rgb(6, 54, 128);
+text-align: center;
+}
